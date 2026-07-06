@@ -45,13 +45,6 @@ Three benchmark datasets were used.
 | Medium   |      134      |
 | Large    |    2737.03    |
 
-## Folder Structure
-
-src/
-dataset/
-result/
-images/
-
 ## How to Run
 
 1. Clone repository
